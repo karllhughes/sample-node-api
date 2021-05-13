@@ -8,7 +8,8 @@ module.exports = {
           },
           'email': 'deidre.hayes@undefined.me',
           'phone': '+1 (839) 577-3100',
-          'address': '507 Church Avenue, Heil, Wyoming, 1754'
+          'address': '507 Church Avenue, Heil, Wyoming, 1754',
+          'language': 'English'
         },
         {
           '_id': '1',
@@ -18,7 +19,8 @@ module.exports = {
           },
           'email': 'maldonado.sellers@undefined.biz',
           'phone': '+1 (834) 573-2841',
-          'address': '286 Hewes Street, Abiquiu, Maine, 2447'
+          'address': '286 Hewes Street, Abiquiu, Maine, 2447',
+          'language': 'Polish'
         },
         {
           '_id': '2',
@@ -28,7 +30,8 @@ module.exports = {
           },
           'email': 'elvia.aguilar@undefined.io',
           'phone': '+1 (826) 486-2932',
-          'address': '457 Buffalo Avenue, Caberfae, Connecticut, 2648'
+          'address': '457 Buffalo Avenue, Caberfae, Connecticut, 2648',
+          'language': 'Spanish'
         },
         {
           '_id': '3',
@@ -38,7 +41,8 @@ module.exports = {
           },
           'email': 'chris.mullins@undefined.org',
           'phone': '+1 (884) 425-2397',
-          'address': '642 Vandalia Avenue, Driftwood, California, 213'
+          'address': '642 Vandalia Avenue, Driftwood, California, 213',
+          'language': 'English'
         },
         {
           '_id': '4',
@@ -48,7 +52,8 @@ module.exports = {
           },
           'email': 'vargas.oneal@undefined.info',
           'phone': '+1 (893) 576-3106',
-          'address': '413 Bedford Avenue, Bynum, Federated States Of Micronesia, 1793'
+          'address': '413 Bedford Avenue, Bynum, Federated States Of Micronesia, 1793',
+          'language': 'Marshallese'
         }
     ],
     Cars: [

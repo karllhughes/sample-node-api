@@ -70,7 +70,7 @@ function setUpParams() {
     .option('p', {
     alias: 'port',
     description: 'listening port',
-    default: 18000
+    default: (process.env.PORT || 18000)
     })
     .option('k', {
     alias: 'key',

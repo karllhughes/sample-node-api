@@ -1,0 +1,5 @@
+name: "sample-node-api"
+tasks:
+  start:
+    command: node src/index.js
+    inboundUrl: http://localhost:18000
