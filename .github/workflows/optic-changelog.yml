@@ -1,0 +1,11 @@
+name: optic-changelog
+on: [pull_request]
+jobs:
+  changelog:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: opticdev/optic-changelog
+        with:
+          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
+          OPTIC_API_KEY: ${{secrets.OPTIC_API_KEY}}
